@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background: blueviolet;
+    font-family: cursive;
+}
+
+.gameBox{
+    border: 1px solid silver;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    width: 380px;
+    height: 350px;
+    border-radius: 15px;
+    background: white;
+}
+.gameOutcome{
+    font-style: italic;
+}
+
+button{
+    background: blueviolet;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    outline: none;
+}
+
+.userOption{
+    margin-bottom: 10px;
+}
+
+.playerInfo{
+    font-family: cursive;
+    margin-top: 30px;
+}
